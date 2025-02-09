@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["cms-free-branding-lib-lang-fr"],{134:function(r,n,t){"use strict";t.r(n);t.d(n,"translations",(function(){return e}));o({fr:{"cmsf-branding":{buttonLabel:"Créé sur HubSpot",dropdown:{reportAbuse:"Signaler un abus",getCms:"Créer votre propre site web gratuit"}}}});var e;function o(r){(e=e||[]).push(r)}}}]);
+//# sourceMappingURL=cms-free-branding-lib-lang-fr.js.map
