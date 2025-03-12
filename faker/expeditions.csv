@@ -1,0 +1,11 @@
+expedition_id,commande_id,date_expedition,date_livraison_estimee,statut,adresse_livraison
+1,2,2023-06-02,2024-01-05,Expédiée,"Unit 0134 Box 2342, DPO AE 84320"
+2,3,2023-09-06,2024-02-06,Expédiée,"854 Bray Vista, New Jillianborough, ME 57123"
+3,4,2023-04-14,2024-02-13,Livrée,"073 Zachary Mews Apt. 811, Port Debbiebury, IN 36495"
+4,2,2023-03-17,2024-02-18,En cours,"59706 Adrian Unions Suite 357, Birdview, AS 59762"
+5,3,2023-07-12,2024-01-05,Livrée,"USNV Knight, FPO AP 01403"
+6,3,2023-04-10,2024-02-17,En cours,"466 Rebecca Streets, Brooksberg, HI 77465"
+7,5,2023-10-18,2024-01-16,Livrée,"USNV Ware, FPO AP 40806"
+8,2,2023-01-04,2024-01-20,Livrée,"746 Burch Ports, Jacksonmouth, NV 34430"
+9,2,2023-05-17,2024-01-20,En cours,"84713 Sarah Mountain Apt. 044, North Kaylaborough, AR 15508"
+10,4,2023-05-30,2024-02-09,Expédiée,"933 Sharon Hills Apt. 749, Meganville, NE 33562"

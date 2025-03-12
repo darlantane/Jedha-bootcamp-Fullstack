@@ -1,0 +1,11 @@
+paiement_id,commande_id,montant,date_paiement,moyen_de_paiement,statut
+1,5,48.58,2023-06-03,PayPal,En attente
+2,2,264.41,2023-12-16,Chèque,Annulé
+3,4,13.16,2023-01-02,Carte,Payé
+4,3,272.49,2023-01-08,Carte,Annulé
+5,2,495.64,2023-05-15,Virement,Payé
+6,1,24.21,2023-07-17,Carte,En attente
+7,3,74.83,2023-01-14,Carte,En attente
+8,1,193.88,2023-04-06,PayPal,En attente
+9,5,82.65,2023-04-13,Chèque,Annulé
+10,4,211.35,2023-10-20,Carte,En attente
